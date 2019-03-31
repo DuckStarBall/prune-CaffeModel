@@ -1,2 +1,1 @@
-# prune-CaffeModel
-to prune the Caffe model 
+# prune-caffemodel
